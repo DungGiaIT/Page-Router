@@ -1,7 +1,6 @@
 import Head from 'next/head';
 import Link from 'next/link';
 import Layout from '../componets/layout';
-
 export default function FirstPost() {
     return (
         <Layout>
