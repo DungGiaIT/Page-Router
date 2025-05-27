@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import Layout from '../components/layout';
+import Layout from '../pages/components/layout';
 import Head from 'next/head';
 import Script from 'next/script';
  
